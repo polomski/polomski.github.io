@@ -1,12 +1,12 @@
 # Site settings
 title: polomski
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+#email: your-email@yourdomain.com
 copyright_name: Marcin Połomski
-description: "Marcin Połomski GitHub Page | MarcinPolomski | polomski"
+description: "Marcin Połomski GitHub Page | Marcin Połomski | MarcinPolomski | polomski"
 baseurl: "https://polomski.github.io"
 url: "https://polomski.github.io"
-#twitter_username: MarcinPolomski
+twitter_username: MarcinPolomski
 github_username:  polomski
 
 # Google Analytics
